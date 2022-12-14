@@ -1,0 +1,42 @@
+body {
+  background: #cce0f0;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.one{
+  height: 550px;
+  background: white;
+  width: 340px;
+  border-radius: 30px;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.two{
+  margin: 27px;
+  margin-bottom:0px;
+  text-align: center;
+  padding: 20px;
+  background: blue;
+  border-radius: 12px;
+  height: 250px;
+}
+
+.text{
+  margin: 30px;
+  margin-top: 0;
+  font-size: 15px;
+  text-align: center;
+}
+h2{
+  color:black;
+}
+p{
+  font-size: 18px;
+  color: grey;
+}
